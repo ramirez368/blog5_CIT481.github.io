@@ -29,8 +29,6 @@ Now, let us look at reasons behind the popularity of Chef.
 * Because of Chef’s maturity and flexibility, it is being used by giants like Mozilla, Expedia, Facebook, HP Public Cloud, Prezi, Xero, Ancestry.com, Rackspace, Get Satisfaction, IGN, Marshall University, Socrata, University of Minnesota, Wharton School of the University of Pennsylvania, Bonobos, Splunk, Citi, DueDil, Disney, and Cheezburger.
 
 
-![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
-
 ## Configuration Management
 Don’t worry, there won’t be any heavy definition of Configuration Management in this blog :)
 
