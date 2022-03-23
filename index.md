@@ -38,6 +38,7 @@ Let us understand Configuration Management this way – suppose you have to depl
 
 To solve this problem, Configuration Management was introduced. By using Configuration Management tools like Chef, Puppet, etc. you can automate this task. All you have to do is to specify the configurations in one centralized server and accordingly all the nodes will be configured. It allows access to an accurate historical record of system state for project management and audit purposes. So basically, we need to specify the configurations once on the central server and replicate that on thousands of nodes. Configuration Management helps in performing the below tasks in a very structured and easy way:
 
+![ ](https://intellipaat.com/blog/wp-content/uploads/2018/11/How-Chef-Works.png)
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
 
