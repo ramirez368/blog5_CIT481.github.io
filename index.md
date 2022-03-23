@@ -15,11 +15,11 @@ Chef is an automation tool that provides a way to define infrastructure as code.
 * Configurations are managed across your network
 
 
-![](https://www.clariontech.com/hubfs/BlogImage-78.png) 
+![](https://msystechnologies.com/wp-content/uploads/2018/04/chef.png) 
 
-## 5G to Make Headway
+## 
 
-According to Gartner, 5G is predominantly employed for consumer use cases at present, but that’s set to change over the next two years. This is because it strengthens key IoT operations like cameras and asset sensors, by making them more reliable. The U.S. is also one of a handful of countries developing 5G on mmWave frequencies though connections are sparse at present. The approach is set to strengthen 5G connectivity for massive machine-type communications where data production, exchange and implementation is handled by vast IoT fleets, with minimal human involvement. But mmWave 5G’s benefits will take a while to actuate, according to Gartner, which predicts it won’t reach maturity until 2025.
+
 
 ![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
 
